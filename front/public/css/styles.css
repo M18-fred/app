@@ -1,0 +1,32 @@
+:root {
+  --background: #EEEEEE;
+  --text-color: #333344;
+  --primary: #2F3772;
+  --secondary: #1C84C2;
+  --font-title: Arial, sans-serif;
+  --gutter: 8px;
+  --font-size: 16px;
+  --break-lg: 1200px;
+  --break-md: 800px;
+  --break-sm: 500px;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--background);
+  color: var(--primary);
+  font-family: var(--font-text);
+  font-size: var(--font-size);
+  scroll-behavior: smooth;
+}
+
+::-moz-selection {
+  color: var(--background);
+  background: var(--primary);
+}
+
+::selection {
+  color: var(--background);
+  background: var(--primary);
+}

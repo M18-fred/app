@@ -1,0 +1,25 @@
+[
+  {
+    "id": 0,
+    "title": "From Nand to Tetris",
+    "authors": [
+      "Noam Nisan",
+      "Shimon Schocken"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Au bonheur des dames",
+    "authors": [
+      "Emile Zola"
+    ]
+  },
+  null,
+  {
+    "id": 3,
+    "title": "Flash",
+    "authors": [
+      "Bary Allen"
+    ]
+  }
+]
