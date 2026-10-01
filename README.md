@@ -2,7 +2,6 @@
 
 Projet de fin de semestre – Programmation Web, EPITA (2025-2026).
 
-**Auteur(s) :** _Nom Prénom – email_ / _Nom Prénom – email (si binôme)_
 
 ## Description
 
@@ -111,15 +110,9 @@ Exemple de livre :
 - [x] API REST complète sur les livres (GET, POST, PUT, PATCH, DELETE)
 - [x] Couche d'accès aux données (fichiers JSON)
 - [x] Squelette du frontend (layout, header, footer, page d'accueil, page 404)
-- [ ] Authentification
-- [ ] Tableau de bord
-- [ ] API et pages pour les auteurs
-- [ ] Recherche de livres / d'auteurs par nom
-- [ ] Fiches livre et auteur (consultation / modification)
-- [ ] Formulaires de création de livre et d'auteur
-
-_(Adaptez cette liste à l'état réel de votre projet avant le rendu.)_
-
-## Rendu
-
-Le projet est rendu sous forme de dossier `.zip`, **sans** le dossier `node_modules`.
+- [x] Authentification
+- [x] Tableau de bord
+- [x] API et pages pour les auteurs
+- [x] Recherche de livres / d'auteurs par nom
+- [x] Fiches livre et auteur (consultation / modification)
+- [x] Formulaires de création de livre et d'auteur
