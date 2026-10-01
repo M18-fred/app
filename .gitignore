@@ -1,0 +1,24 @@
+# Dépendances
+node_modules/
+.npm/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variables d'environnement
+.env
+.env.*
+!.env.example
+
+# Archives de rendu
+*.zip
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Éditeurs / IDE
+.vscode/
+.idea/
+*.swp
